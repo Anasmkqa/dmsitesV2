@@ -11,7 +11,8 @@ Git hub
 git pull origin master
 git push origin master
 
-anasmk@786
+git hub pwd - anasmk@786
+jenkis pwd - anasmk@7860
 
 
 
